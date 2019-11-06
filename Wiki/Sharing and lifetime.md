@@ -6,7 +6,7 @@ A part instance may need to be shared across the entire application or container
 
 The diagram below shows how an UndoBuffer part might be shared on a per-page basis in a navigation-driven app:
 
-![](Sharing and lifetime_SharingBoundaries.png)
+![](Sharing%20and%20lifetime_SharingBoundaries.PNG)
  
 Sharing boundaries in Microsoft.Composition are given string names, here the name of the sharing boundary is “Page”.
 
